@@ -1,6 +1,6 @@
 # Kartoffels Terrible Image Tools
 
-Scripts for specialized image processing. This project is almost entirely deprecated and not very good work, but can still be useful to people. For Image processing I would recommend [ChaiNNer](https://chainner.app/download). The FFXIV alpha bands have been changed to ID which I have a tool for [here](https://github.com/kartoffels123/ffxiv_7_0_toolbox/tree/main/scripts/ffxiv_id_upscaler). The image heuristics tools are still pretty good.
+Scripts for specialized image processing. This project is almost entirely deprecated and not very good work, but can still be useful to people. For Image processing I would recommend [ChaiNNer](https://chainner.app/download). The FFXIV alpha bands have been changed to ID which I have a tool for [here](https://github.com/kartoffels123/ffxiv_7_0_toolbox). The image heuristics tools are still pretty good.
 
 ## REQUIREMENTS
 
